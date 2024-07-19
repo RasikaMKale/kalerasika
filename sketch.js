@@ -7,7 +7,7 @@ function setup() {
   // take a big brush
   strokeWeight(20);
   // dip it in the color purple
-  stroke('pink')
+  stroke('orange')
 } 
 
 
